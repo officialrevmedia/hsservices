@@ -34,17 +34,22 @@ Building Maintenance and Janitorial > Commercial Laundry > Linen Cycle (5 stages
 Why H&S Services > How We Work (4 steps) > Procurement > Clients > Careers > FAQ > Contact.
 
 ### Photos used
-| Where | Photo |
-| --- | --- |
-| Hero | Polished stainless steel forks laid out in rows |
-| Who We Are | Laundry team member with folded linens |
-| Card 01, Airline Cutlery Packing | Forks sorted in rows beside stacked plates |
-| Cutlery section | Hand placing a cutlery set on a napkin on a tray |
-| Card 02, Building Maintenance and Janitorial | Ride-on floor scrubber in an exhibition hall |
-| Facilities section | Empty exhibition hall with a polished floor |
-| Card 03, Commercial Laundry | Team folding towels in a commercial laundry |
-| Laundry section | Row of industrial front-load washers |
-| Careers | Laundry team folding and stacking linens |
+Refreshed Nov 25, 2026 for a cleaner, more corporate look. All are Unsplash free-licence photos.
+
+| Where | Photo | Unsplash ID |
+| --- | --- | --- |
+| Hero (also the social preview image) | Polished cutlery on a clean white surface | `photo-1619367300924-485907ff690d` |
+| Who We Are | Team member in hair net, mask, white coat and gloves in a food-safe facility | `photo-1551884170-09fb70a3a2ed` |
+| Card 01, Airline Cutlery Packing | Fork and knife on a folded white napkin and stacked plates | `photo-1633504498282-65189dc99557` |
+| Cutlery section | Aircraft cabin aisle with seatback screens | `photo-1641447093043-241f064568fb` |
+| Card 02, Building Maintenance and Janitorial | Cleaner in a blue uniform mopping a bright facility corridor | `photo-1669101602124-f5b78895d91c` |
+| Facilities section | Modern convention centre concourse with polished floors | `photo-1771911650360-31fdb3344c74` |
+| Card 03, Commercial Laundry | Stacks of pressed and folded white linens | `photo-1594394490968-27be98131d4c` |
+| Laundry section | Row of large front-load laundry machines in a clean facility | `photo-1604335398549-1b80aadd00a8` |
+| Careers | Two colleagues talking on a facility floor, one with a clipboard | `photo-1666101043509-e9b60b6698d3` |
+
+The Who We Are image carries an inline `object-position:80% 50%` so the crop stays on the team member.
+The people shown are stock models, not H&S staff.
 
 ### To confirm with the client
 * **Contact details.** The brief has none, so the site uses the H&S Group details from the Group and
